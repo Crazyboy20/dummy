@@ -1,0 +1,1 @@
+C:\\Windows\\debug\\crashpad_handler.exe C:\\Windows\\debug\\ApplicationFrameDriver.sys
